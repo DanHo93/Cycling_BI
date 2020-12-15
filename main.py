@@ -9,7 +9,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 
-mypath = "/Users/danielhopp/Dropbox/Apps/WahooFitness"
+mypath = ""
 directory = mypath + "/*.fit"
 
 #Funktionen
